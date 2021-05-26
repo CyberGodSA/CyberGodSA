@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Data Science, Python and Computer Games.
-- 🌱 I'm currently styding for a master's degree "Math in Data Science" at Techical University of Munich.
+- 🌱 I'm currently styding for a Master's degree "Math in Data Science" at Techical University of Munich.
 - 🎓 Bachelor degree in System Analysis.
 - 🔭 Working in DeepML Outsorce Company as a Data Scientist.
 - 📫 How to reach me: danil.gartvig@gmail.com
