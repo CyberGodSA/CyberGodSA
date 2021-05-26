@@ -1,7 +1,7 @@
 <h1> 👋 Hi, My name is Danylo Hartvih. </h1>
 
 
-- 👀 I’m interested in Data Science, Python and Computer Games.
+- 👀 I’m interested in Data Science, Python and Video Games.
 - 🌱 I'm currently styding for a Master's degree "Math in Data Science" at Techical University of Munich.
 - 🎓 Bachelor degree in System Analysis.
 - 🔭 Working in DeepML Outsorce Company as a Data Scientist.
