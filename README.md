@@ -2,11 +2,9 @@
 
 
 - 👀 I’m interested in Data Science, Python and Video Games.
-- 🌱 I'm currently styding for a Master's degree "Math in Data Science" at Techical University of Munich.
-- 🎓 Bachelor degree in System Analysis.
-- 🔭 Working in DeepML Outsorce Company as a Data Scientist.
+- 🌱 Master's degree "Math in Data Science" at Techical University of Munich.
+- 🎓 Bachelor's degree in System Analysis.
 - 📫 How to reach me: danil.gartvig@gmail.com
-- ⚡ My current goal: start blogging about Data Science.
 
 <!---
 CyberGodSA/CyberGodSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
